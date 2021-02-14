@@ -1,0 +1,21 @@
+nav.navbar{
+background-color: #33e268;
+}
+a.nav-item.nav-link{
+    color: blueviolet;
+}
+header nav a {
+    font-size: 20px;
+    color: blueviolet;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+header nav a navbar-nav a :hover{
+    transform: translateY(-10px);
+    color: #56c921;
+}
+
+.bs-example.regi a{
+    
+}
